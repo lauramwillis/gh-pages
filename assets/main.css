@@ -11,8 +11,9 @@
 }
 
 .jumbotron {
+  background-color: yellow;
   background-image:url('http://goo.gl/04j7Nn');
-  height: 500px;
+  height: 800px;
 }
 
 .jumbotron h1 {
