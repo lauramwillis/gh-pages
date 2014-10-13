@@ -20,16 +20,21 @@
 
 .introemphasized {
    height: 200px;
-   color: #c6c6c6;
-   background-color: #373737;;
+   color: #c5c5c5;
+   background-color: #f2f2f2;;
    font-family: lato;
    text-align: center;
-   padding-top: 100px;
+   padding-top: 50px;
    font-size: 24px;
-   text-transform: uppercase;
 }
-
 .introemphasized p {
+   color: #c5c5c5;
+   background-color: #f2f2f2;;
+   font-family: lato;
+   text-align: center;
+   font-size: 16px;
+
+}
 
 .jumbotron {
   background-image:url('http://goo.gl/wysKoH');
@@ -37,7 +42,7 @@
 }
 
 .jumbotron h1 {
-  color: #373737;
+  color: #333;
   font-size: 48px;  
   font-family: 'arvo', sans-serif;
   font-weight: bold;
